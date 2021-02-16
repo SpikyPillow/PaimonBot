@@ -1,0 +1,73 @@
+{
+        "name": "Albedo",
+        "slug": "albedo",
+        "image": "https://imgur.com/VStuyTM.png",
+        "vision": "geo",
+        "rarity": 5,
+        "stats": {
+            "ascensionphase": 0,
+            "level": 1,
+            "hp": 1030,
+            "atk": 20,
+            "def": 68,
+            "constellation": 0
+
+        },
+        "obtained": {
+            "duplicates": false
+        },
+        "weapon": {
+            "equipped": "Dull Blade",
+            "type": "Sword"
+        },
+        "artifacts": {
+            "Flower": "",
+            "Plume": "",
+            "Sands": "",
+            "Goblet": "",
+            "Circlet": ""
+        },
+        "moveset": {
+
+        },
+        "talents": {
+            "Favonius Bladework": {
+
+            },
+            "Abiogenesis": {
+
+            },
+            "Rite of Progeniture": {
+
+            },
+            "Calcite Might": {
+            },
+            "Homuncular Nature": {
+
+            },
+            "Flash of Genius": {
+
+            }
+        },
+        "constellations": {
+            "Flower of Eden": {
+
+            },
+            "Opening of Phanerosoiz": {
+
+            },
+            "Grace of Helios": {
+
+            },
+            "Descent of Divinity": {
+
+            },
+            "Tide of Hadaen": {
+
+            },
+            "Dust of Purification": {
+
+            }
+
+        }
+    }

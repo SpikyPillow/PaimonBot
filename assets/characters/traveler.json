@@ -1,0 +1,9 @@
+{
+    "name": "Traveler",
+    "slug": "traveler",
+    "gender": "", 
+    "femImage": "",
+    "maleImage": "",
+    "vision": "adaptive",
+    "rarity": 5
+}
